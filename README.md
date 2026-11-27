@@ -6,10 +6,11 @@ Assista filmes, séries, animes e canais ao vivo direto no celular, baixe episó
 
 👉 **[Baixar Lumina.apk (Última Versão)](https://github.com/JAEMult/controle-tv-releases/releases/latest/download/Lumina.apk)**
 
-- ✅ **Sempre atualizado automaticamente** — o Lumina verifica novas versões sozinho (inclusive em segundo plano) e avisa com 1 toque para instalar.
-- ✅ **Addons já integrados** — não precisa criar conta Stremio nem configurar nada.
-- ✅ **Offline no Wi-Fi** — baixe filmes e séries no Wi-Fi e assista no avião, ônibus ou sem gastar seus dados móveis.
-- ✅ **100% privado** — zero dados pessoais neste repositório; histórico e downloads ficam salvos apenas no seu aparelho.
+- ✅ **Conta Stremio Oficial (Opcional):** conecte ou crie uma conta Stremio grátis direto no Lumina para sincronizar seu **Continuar Assistindo** no segundo exato com o **Stremio original** no PC, Mac, TV e outros celulares — e ainda enviar os addons do Lumina para sua conta Stremio sem apagar os que você já tem!
+- ✅ **Addons já integrados:** não precisa criar conta nem configurar nada se quiser usar direto.
+- ✅ **Sempre atualizado automaticamente:** o Lumina verifica novas versões sozinho (inclusive em segundo plano) e avisa com 1 toque para instalar.
+- ✅ **Offline no Wi-Fi:** baixe filmes e séries no Wi-Fi e assista sem gastar seus dados móveis.
+- ✅ **100% privado:** zero dados pessoais neste repositório.
 
 ### Como instalar no Android
 1. Toque no link **[Baixar Lumina.apk](https://github.com/JAEMult/controle-tv-releases/releases/latest/download/Lumina.apk)** acima pelo celular.
